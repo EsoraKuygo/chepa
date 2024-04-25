@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url('gisa-cecani.jpg'); /* Assurez-vous de placer votre image dans le même dossier que le fichier HTML */
+    background-image: url('gisa-cecani.jpg'); 
     background-size: cover;
     background-position: center;
     color: white;
